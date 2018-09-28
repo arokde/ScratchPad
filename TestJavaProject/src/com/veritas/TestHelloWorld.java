@@ -6,4 +6,9 @@ public class TestHelloWorld {
 		
 		System.out.println("Hello World");
 	}
+	
+	
+	public static void anothermethod() {
+		System.out.println("This is helpful");
+	}
 }
