@@ -11,4 +11,8 @@ public class TestHelloWorld {
 	public static void anothermethod() {
 		System.out.println("This is helpful");
 	}
+	
+	public static void firstMethod() {
+		// do nothing 
+	}
 }
